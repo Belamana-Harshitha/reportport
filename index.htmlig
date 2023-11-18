@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>Harshitha's Portfolio</title>
+    </head>
+    <body>
+        <h1>HARSHITHA'S PORTFOLIOS</h1>
+        <h2>I'm a Web Developer</h2>
+        <hr />
+        <ul>
+         <h3><li> <a href ="./assets/images/anime ranking.png">ANIME RANKING LINK</a></li></h3>
+         <h3><img height ="200" src="./assets/images/anime ranking.png "></h3>
+            <hr />
+            <h3><li><a href ="./assets/images/birthday.png">BIRTHDAY INVITE LINK</a></li></h3>
+            <h3><img height ="200" src="./assets/images/birthday.png "></h3>
+        </ul>
+            <hr />
+        <li><a href ="./public/about.html">About me </a></li> 
+        <li><a href ="./public/contact.html">Contact me </a></li> 
+    </body>     
+</html>
